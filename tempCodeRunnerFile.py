@@ -1,0 +1,2 @@
+except:
+            self.photo = None
